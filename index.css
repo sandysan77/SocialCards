@@ -29,3 +29,9 @@ a{
 .box{
     padding: 50px 1px;
 }
+
+h1{
+    text-align: center;
+    background-color: beige;
+    margin-top: 50px;
+}
